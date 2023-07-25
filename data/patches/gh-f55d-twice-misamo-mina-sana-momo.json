@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "TWICE MISAMO (Mina, Sana, Momo)",
+	"description": "MiSaMo is the first sub-unit of the South Korean girl group Twice formed by JYP Entertainment. The group consists of Twice's Japanese members, Momo, Sana, and Mina. They are scheduled to debut in 2023 with the extended play Masterpiece.\n\n",
+	"links": {
+		"subreddit": [
+			"twice"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1375,
+				-368
+			],
+			[
+				-1375,
+				-347
+			],
+			[
+				-1361,
+				-347
+			],
+			[
+				-1361,
+				-368
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1368,
+			-357
+		]
+	}
+}
