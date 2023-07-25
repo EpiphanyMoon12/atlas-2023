@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "TWICE JIHYO 1ST MINI ALBUM ZONE",
+	"description": "Zone is the solo debut mini album by Jihyo from TWICE. It will be released on August 18, 2023 with \"Killin' Me Good\" serving as the album's title track.",
+	"links": {
+		"subreddit": [
+			"twice"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1382,
+				-368
+			],
+			[
+				-1375,
+				-368
+			],
+			[
+				-1375,
+				-347
+			],
+			[
+				-1382,
+				-347
+			],
+			[
+				-1382,
+				-368
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1378,
+			-357
+		]
+	}
+}
